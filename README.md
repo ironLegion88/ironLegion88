@@ -2,7 +2,7 @@
 
 🎓 I'm an undergraduate at **Ashoka University**, pursuing a **B.Sc. in Computer Science**. I’m passionate about exploring how technology intersects with society — especially through **AI**, **cloud platforms**, **digital public goods**, and **media transparency**.
 
-I’m also deeply curious about **electronics and robotics**, and have been actively working on hands-on hardware projects involving **Micromouse**, **mechatronics**, **motor control**, and **sensor systems**.
+I’m also deeply curious about **electronics and robotics**, and have been actively working on hands-on hardware projects involving **mechatronics**, **motor control**, and **sensor systems**.
 
 ---
 
