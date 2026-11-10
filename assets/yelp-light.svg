@@ -1,0 +1,14 @@
+<svg role="img" aria-label="Yelp evaluation. Prediction error examined separately across vote ranges." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 112" width="340" height="112">
+  <title>Yelp evaluation. Prediction error examined separately across vote ranges.</title>
+  <rect width="340" height="112" fill="#FAF4EB"/>
+  <g font-family="ui-monospace, Consolas, monospace" text-anchor="middle" font-size="16" fill="#2C211D">
+    <rect x="18" y="25" width="66" height="58" rx="4" fill="#F5E1D8"/>
+    <rect x="97" y="25" width="66" height="58" rx="4" fill="#F5E1D8"/>
+    <rect x="176" y="25" width="66" height="58" rx="4" fill="#F5E1D8"/>
+    <rect x="255" y="25" width="66" height="58" rx="4" fill="#9C3037"/>
+    <text x="51" y="60">0</text>
+    <text x="130" y="60">1–5</text>
+    <text x="209" y="60">6–20</text>
+    <text x="288" y="60" fill="#FFFFFF">21+</text>
+  </g>
+</svg>

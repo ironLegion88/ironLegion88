@@ -1,0 +1,11 @@
+<svg role="img" aria-label="ArtEmis image captioning. Artwork, an emotion input, and a captioning model." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 112" width="340" height="112">
+  <title>ArtEmis image captioning. Artwork, an emotion input, and a captioning model.</title>
+  <rect width="340" height="112" fill="#1D1716"/>
+  <rect x="22" y="15" width="85" height="82" rx="3" fill="#482C30"/>
+  <circle cx="65" cy="50" r="21" fill="#F4A1A5"/>
+  <path d="M29 87L53 63L71 78L88 61L100 87Z" fill="#CBB1A5" opacity=".6"/>
+  <g font-family="ui-monospace, Consolas, monospace" font-size="18" fill="#F7ECE4">
+    <text x="128" y="49">emotion = awe</text>
+    <text x="128" y="77" fill="#F4A1A5">image → caption</text>
+  </g>
+</svg>

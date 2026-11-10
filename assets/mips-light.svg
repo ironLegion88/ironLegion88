@@ -1,0 +1,9 @@
+<svg role="img" aria-label="MIPS assembler and simulator. Assembly instructions and register state." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 112" width="340" height="112">
+  <title>MIPS assembler and simulator. Assembly instructions and register state.</title>
+  <rect width="340" height="112" fill="#FAF4EB"/>
+  <rect x="22" y="20" width="296" height="72" rx="4" fill="#F5E1D8"/>
+  <g font-family="ui-monospace, Consolas, monospace" font-size="18">
+    <text x="36" y="48" fill="#2C211D">addi $t0, $zero, 5</text>
+    <text x="36" y="76" fill="#9C3037">$t0 = 0x00000005</text>
+  </g>
+</svg>

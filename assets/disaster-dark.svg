@@ -1,0 +1,12 @@
+<svg role="img" aria-label="Disaster Intelligence. Comparing coverage of Haiti’s 2021 earthquake and Myanmar’s 2025 earthquake." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 118" width="700" height="118">
+  <title>Disaster Intelligence. Comparing coverage of Haiti’s 2021 earthquake and Myanmar’s 2025 earthquake.</title>
+  <rect width="700" height="118" fill="#1D1716"/>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="31" fill="#F7ECE4">
+    <text x="33" y="70">Haiti ’21</text>
+    <text x="494" y="70">Myanmar ’25</text>
+  </g>
+  <path d="M223 59H447" stroke="#CBB1A5" stroke-width="1.5"/>
+  <circle cx="246" cy="59" r="6" fill="#F4A1A5"/>
+  <circle cx="350" cy="59" r="6" fill="#F4A1A5"/>
+  <circle cx="424" cy="59" r="6" fill="#F4A1A5"/>
+</svg>

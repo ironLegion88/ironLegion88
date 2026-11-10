@@ -1,0 +1,13 @@
+<svg role="img" aria-label="IndiSight. District data, SQL retrieval, policy documents, and a benchmark contract." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 118" width="700" height="118">
+  <title>IndiSight. District data, SQL retrieval, policy documents, and a benchmark contract.</title>
+  <rect width="700" height="118" fill="#1D1716"/>
+  <path d="M163 59H239M391 59H468" stroke="#CBB1A5" stroke-width="2" fill="none"/>
+  <g font-family="ui-monospace, Consolas, monospace" text-anchor="middle" font-size="17">
+    <rect x="20" y="29" width="143" height="60" rx="4" fill="#482C30"/>
+    <text x="91.5" y="66" fill="#F7ECE4">DISTRICT DATA</text>
+    <rect x="239" y="29" width="152" height="60" rx="4" fill="#482C30"/>
+    <text x="315" y="66" fill="#F7ECE4">SQL + POLICY</text>
+    <rect x="468" y="29" width="212" height="60" rx="4" fill="#F4A1A5"/>
+    <text x="574" y="66" fill="#1D1716">ARTIFACT CONTRACT</text>
+  </g>
+</svg>

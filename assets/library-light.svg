@@ -1,0 +1,13 @@
+<svg role="img" aria-label="Library recommendation. A failed search is enriched with corrections and related titles." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 112" width="340" height="112">
+  <title>Library recommendation. A failed search is enriched with corrections and related titles.</title>
+  <rect width="340" height="112" fill="#FAF4EB"/>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="25">
+    <text x="24" y="45" fill="#674E42">No results?</text>
+    <text x="24" y="80" fill="#9C3037">Try these titles.</text>
+  </g>
+  <g fill="#F5E1D8">
+    <rect x="249" y="22" width="13" height="67" rx="2"/>
+    <rect x="267" y="15" width="16" height="74" rx="2"/>
+  </g>
+  <rect x="289" y="31" width="24" height="58" rx="2" fill="#9C3037"/>
+</svg>

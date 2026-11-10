@@ -1,0 +1,8 @@
+<svg role="img" aria-label="Sarthak Rathi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 160" preserveAspectRatio="xMidYMid meet" width="720" height="160">
+  <title>Sarthak Rathi</title>
+  <rect width="720" height="160" fill="#FAF4EB" rx="3"/>
+  <path d="M26 132H694" fill="none" stroke="#9C3037" stroke-width="2"/>
+  <text x="25" y="104" fill="#2C211D" font-family="Georgia, 'Times New Roman', serif" font-size="80" letter-spacing="-4">Sarthak Rathi<tspan fill="#9C3037">.</tspan></text>
+  <circle cx="668" cy="43" r="10" fill="#9C3037"/>
+  <circle cx="691" cy="43" r="4" fill="#674E42"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg role="img" aria-label="Word Games in Rust. A five-letter word represented as letter tiles." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 112" width="340" height="112">
+  <title>Word Games in Rust. A five-letter word represented as letter tiles.</title>
+  <rect width="340" height="112" fill="#FAF4EB"/>
+  <g font-family="ui-monospace, Consolas, monospace" font-size="27" text-anchor="middle">
+    <g fill="#F5E1D8">
+      <rect x="25" y="29" width="50" height="54" rx="3"/>
+      <rect x="85" y="29" width="50" height="54" rx="3"/>
+      <rect x="145" y="29" width="50" height="54" rx="3"/>
+      <rect x="205" y="29" width="50" height="54" rx="3"/>
+    </g>
+    <rect x="265" y="29" width="50" height="54" rx="3" fill="#9C3037"/>
+    <g fill="#2C211D">
+      <text x="50" y="65">W</text>
+      <text x="110" y="65">O</text>
+      <text x="170" y="65">R</text>
+      <text x="230" y="65">D</text>
+    </g>
+    <text x="290" y="65" fill="#FFFFFF">S</text>
+  </g>
+</svg>
