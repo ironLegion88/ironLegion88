@@ -5,10 +5,11 @@ Run python generate_assets.py and commit the updated assets/ folder.
 -->
 
 
-<p>
-  <img src="./assets/nameplate-light.svg#gh-light-mode-only" alt="Sarthak Rathi" width="100%">
-  <img src="./assets/nameplate-dark.svg#gh-dark-mode-only" alt="Sarthak Rathi" width="100%">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/nameplate-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/nameplate-light.svg">
+  <img src="./assets/nameplate-light.svg" alt="Sarthak Rathi" width="100%">
+</picture>
 
 <p>
   <strong>Building software and ML systems.</strong>
@@ -35,15 +36,16 @@ Run python generate_assets.py and commit the updated assets/ folder.
   <tbody>
     <tr>
       <td rowspan="2" width="50%">
-        <span>
-          <img src="./assets/ifkg-light.svg#gh-light-mode-only" alt="Food Knowledge Graph. RDF and a tilted GraphQL block over a network of graph nodes." width="100%">
-          <img src="./assets/ifkg-dark.svg#gh-dark-mode-only" alt="Food Knowledge Graph. RDF and a tilted GraphQL block over a network of graph nodes." width="100%">
-        </span>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/ifkg-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="./assets/ifkg-light.svg">
+          <img src="./assets/ifkg-light.svg" alt="Food Knowledge Graph. RDF and a slightly tilted GraphQL block." width="100%">
+        </picture>
         <h3>Food Knowledge Graph</h3>
         <p>A GraphQL prototype with query depth, complexity, and result limits. Comparing GraphDB and Oxigraph on 14 semantic parity cases.</p>
         <p>Python · GraphQL · RDF · Oxigraph</p>
         <p>
-          <a href="https://github.com/fkg-india/Web-App-for-FKG.in">Related platform repository ↗</a>
+          <a href="https://github.com/ironLegion88/fkg-graphql-layer/tree/sprint-2/cytoscape">Code ↗</a>
         </p>
         <details>
           <summary>Evaluation notes</summary>
@@ -52,10 +54,11 @@ Run python generate_assets.py and commit the updated assets/ folder.
       </td>
       <td width="50%">
         <a href="https://github.com/ironLegion88/yelp-polyglot-ml-pipeline">
-          <span>
-            <img src="./assets/yelp-light.svg#gh-light-mode-only" alt="Yelp evaluation. Prediction error examined separately across vote ranges." width="100%">
-            <img src="./assets/yelp-dark.svg#gh-dark-mode-only" alt="Yelp evaluation. Prediction error examined separately across vote ranges." width="100%">
-          </span>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/yelp-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="./assets/yelp-light.svg">
+            <img src="./assets/yelp-light.svg" alt="Yelp evaluation. Prediction error examined separately across vote ranges." width="100%">
+          </picture>
         </a>
         <h3>Yelp Useful-Vote Prediction</h3>
         <p>XGBoost with review and graph features. Stratified error analysis across vote ranges, with SHAP to examine feature reliance.</p>
@@ -68,10 +71,11 @@ Run python generate_assets.py and commit the updated assets/ folder.
     <tr>
       <td width="50%">
         <a href="https://github.com/ironLegion88/word-games">
-          <span>
-            <img src="./assets/word-games-light.svg#gh-light-mode-only" alt="Word Games in Rust. A five-letter word represented as letter tiles." width="100%">
-            <img src="./assets/word-games-dark.svg#gh-dark-mode-only" alt="Word Games in Rust. A five-letter word represented as letter tiles." width="100%">
-          </span>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/word-games-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="./assets/word-games-light.svg">
+            <img src="./assets/word-games-light.svg" alt="Word Games in Rust. A five-letter word represented as letter tiles." width="100%">
+          </picture>
         </a>
         <h3>Word Games in Rust</h3>
         <p>Spelling Bee, Boggle, and Wordle on an arena-backed trie. Differential tests compare optimized solvers against reference implementations.</p>
@@ -88,10 +92,11 @@ Run python generate_assets.py and commit the updated assets/ folder.
     <tr>
       <td colspan="2">
         <a href="https://github.com/ironLegion88/IndiSight-Nowcast/tree/feat/data-ingestion">
-          <span>
-            <img src="./assets/indisight-light.svg#gh-light-mode-only" alt="IndiSight. District data, SQL retrieval, policy documents, and a benchmark contract." width="100%">
-            <img src="./assets/indisight-dark.svg#gh-dark-mode-only" alt="IndiSight. District data, SQL retrieval, policy documents, and a benchmark contract." width="100%">
-          </span>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/indisight-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="./assets/indisight-light.svg">
+            <img src="./assets/indisight-light.svg" alt="IndiSight. District data, SQL retrieval, policy documents, and a benchmark contract." width="100%">
+          </picture>
         </a>
         <h3>IndiSight</h3>
         <p>District-level tabular ingestion, PostGIS storage, and an LLM agent with SQL and policy-document retrieval tools. With benchmark checks for required files, metric keys, prediction columns, and JSON object structure.</p>
@@ -115,10 +120,11 @@ Run python generate_assets.py and commit the updated assets/ folder.
     <tr>
       <td colspan="2">
         <a href="https://disaster-intelligence.streamlit.app/">
-          <span>
-            <img src="./assets/disaster-light.svg#gh-light-mode-only" alt="Disaster Intelligence. Comparing coverage of Haiti’s 2021 earthquake and Myanmar’s 2025 earthquake." width="100%">
-            <img src="./assets/disaster-dark.svg#gh-dark-mode-only" alt="Disaster Intelligence. Comparing coverage of Haiti’s 2021 earthquake and Myanmar’s 2025 earthquake." width="100%">
-          </span>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/disaster-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="./assets/disaster-light.svg">
+            <img src="./assets/disaster-light.svg" alt="Disaster Intelligence. Comparing coverage of Haiti’s 2021 earthquake and Myanmar’s 2025 earthquake." width="100%">
+          </picture>
         </a>
         <h3>Disaster Intelligence Pipeline</h3>
         <p>Collected GDACS reports and built NLP analysis and a Streamlit dashboard to compare news volume, entities, sentiment, and response-timing proxies for two earthquake case studies.</p>
@@ -131,10 +137,11 @@ Run python generate_assets.py and commit the updated assets/ folder.
     <tr>
       <td width="50%">
         <a href="https://github.com/ironLegion88/mips-simulator">
-          <span>
-            <img src="./assets/mips-light.svg#gh-light-mode-only" alt="MIPS assembler and simulator. Assembly instructions and register state." width="100%">
-            <img src="./assets/mips-dark.svg#gh-dark-mode-only" alt="MIPS assembler and simulator. Assembly instructions and register state." width="100%">
-          </span>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/mips-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="./assets/mips-light.svg">
+            <img src="./assets/mips-light.svg" alt="MIPS assembler and simulator. Assembly instructions and register state." width="100%">
+          </picture>
         </a>
         <h3>MIPS Assembler &amp; Simulator</h3>
         <p>Two-pass assembly, step execution, and register/memory inspection in a React–Flask interface, with reverse stepping and cache simulation.</p>
@@ -145,10 +152,11 @@ Run python generate_assets.py and commit the updated assets/ folder.
       </td>
       <td width="50%">
         <a href="https://github.com/ironLegion88/artemis-captioning">
-          <span>
-            <img src="./assets/artemis-light.svg#gh-light-mode-only" alt="ArtEmis image captioning. Artwork, an emotion input, and a captioning model." width="100%">
-            <img src="./assets/artemis-dark.svg#gh-dark-mode-only" alt="ArtEmis image captioning. Artwork, an emotion input, and a captioning model." width="100%">
-          </span>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/artemis-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="./assets/artemis-light.svg">
+            <img src="./assets/artemis-light.svg" alt="ArtEmis image captioning. Artwork, an emotion input, and a captioning model." width="100%">
+          </picture>
         </a>
         <h3>ArtEmis Captioning</h3>
         <p>Implemented CNN–LSTM attention and ViT-based captioning models for artwork. Added artwork-level dataset splitting and batch checkpoint evaluation.</p>
@@ -161,10 +169,11 @@ Run python generate_assets.py and commit the updated assets/ folder.
     <tr>
       <td width="50%">
         <a href="https://github.com/Makerspace-Ashoka/DiscProdSheetify">
-          <span>
-            <img src="./assets/discord-light.svg#gh-light-mode-only" alt="Discord product workflow. URLs are extracted, validated, and written to Sheets." width="100%">
-            <img src="./assets/discord-dark.svg#gh-dark-mode-only" alt="Discord product workflow. URLs are extracted, validated, and written to Sheets." width="100%">
-          </span>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/discord-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="./assets/discord-light.svg">
+            <img src="./assets/discord-light.svg" alt="Discord product workflow. URLs are extracted, validated, and written to Sheets." width="100%">
+          </picture>
         </a>
         <h3>Discord Product Bot</h3>
         <p>Async URL ingestion, Selenium scraping, Gemini-assisted parsing, and Pydantic validation. Writes product records to Google Sheets, deployed with systemd and GitHub Actions.</p>
@@ -175,10 +184,11 @@ Run python generate_assets.py and commit the updated assets/ folder.
       </td>
       <td width="50%">
         <a href="https://github.com/ironLegion88/library_recommender">
-          <span>
-            <img src="./assets/library-light.svg#gh-light-mode-only" alt="Library recommendation. A failed search is enriched with corrections and related titles." width="100%">
-            <img src="./assets/library-dark.svg#gh-dark-mode-only" alt="Library recommendation. A failed search is enriched with corrections and related titles." width="100%">
-          </span>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/library-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="./assets/library-light.svg">
+            <img src="./assets/library-light.svg" alt="Library recommendation. A failed search is enriched with corrections and related titles." width="100%">
+          </picture>
         </a>
         <h3>Library Recommender</h3>
         <p>Hybrid search recovery using catalogue metadata, circulation signals, and Google Books. Built fuzzy query correction, caching, and a FastAPI service deployed on AWS Lightsail.</p>
@@ -269,7 +279,7 @@ Run python generate_assets.py and commit the updated assets/ folder.
   <strong>Software &amp; verification</strong>
   <br>React · Next.js · FastAPI · Flask · pytest · Cargo · Linux · Docker · GitHub Actions · AWS</p>
 
-## Connec/p>
+## Connect
 
 <p>
   <a href="https://www.linkedin.com/in/sarthak--rathi">LinkedIn ↗</a>

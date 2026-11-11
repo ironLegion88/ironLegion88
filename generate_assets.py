@@ -230,27 +230,15 @@ ARTWORK = {
 </svg>
 """,
     "ifkg": """
-<svg role="img" aria-label="Food Knowledge Graph. RDF and a tilted GraphQL block over a network of graph nodes." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 270" width="340" height="270">
-  <title>Food Knowledge Graph. RDF and a tilted GraphQL block over a network of graph nodes.</title>
-  <rect width="340" height="270" fill="{bg}"/>
-  <g fill="none" stroke="{muted}" stroke-width="1.5" opacity=".45">
-    <path d="M49 53L149 33L281 64L292 198L195 235L63 219L49 53M49 53L168 128L281 64M149 33L168 128L63 219M168 128L195 235M168 128L292 198"/>
-  </g>
-  <g fill="{tint}" stroke="{accent}" stroke-width="1.5">
-    <circle cx="49" cy="53" r="8"/>
-    <circle cx="149" cy="33" r="10"/>
-    <circle cx="281" cy="64" r="9"/>
-    <circle cx="292" cy="198" r="8"/>
-    <circle cx="195" cy="235" r="10"/>
-    <circle cx="63" cy="219" r="9"/>
-    <circle cx="168" cy="128" r="11"/>
-  </g>
+<svg role="img" aria-label="Food Knowledge Graph. RDF and a slightly tilted GraphQL block." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 112" width="340" height="112">
+  <title>Food Knowledge Graph. RDF and a slightly tilted GraphQL block.</title>
+  <rect width="340" height="112" fill="{tint}"/>
   <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-weight="600" text-anchor="middle" font-size="32" fill="{accent}">
-    <rect x="24" y="78" width="111" height="66" rx="5" fill="{surface}" stroke="{accent}" stroke-width="1.5"/>
-    <text x="79.5" y="122">RDF</text>
-    <g transform="rotate(-4 212 155)">
-      <rect x="115" y="120" width="194" height="70" rx="5" fill="{surface}" stroke="{accent}" stroke-width="1.5"/>
-      <text x="212" y="166">GraphQL</text>
+    <rect x="20" y="30" width="88" height="60" rx="5" fill="{surface}" stroke="{muted}" stroke-opacity=".65" stroke-width="1.2"/>
+    <text x="64" y="70">RDF</text>
+    <g transform="rotate(-4 219 60)">
+      <rect x="118" y="30" width="202" height="60" rx="5" fill="{surface}" stroke="{muted}" stroke-opacity=".65" stroke-width="1.2"/>
+      <text x="219" y="70">GraphQL</text>
     </g>
   </g>
 </svg>
