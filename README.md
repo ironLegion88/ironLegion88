@@ -36,11 +36,13 @@ Run python generate_assets.py and commit the updated assets/ folder.
   <tbody>
     <tr>
       <td rowspan="2" width="50%">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/ifkg-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="./assets/ifkg-light.svg">
-          <img src="./assets/ifkg-light.svg" alt="Food Knowledge Graph. RDF and a slightly tilted GraphQL block." width="100%">
-        </picture>
+        <a href="https://github.com/ironLegion88/fkg-graphql-layer/tree/sprint-2/cytoscape">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/ifkg-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="./assets/ifkg-light.svg">
+            <img src="./assets/ifkg-light.svg" alt="Food Knowledge Graph. RDF and a slightly tilted GraphQL block." width="100%">
+          </picture>
+        </a>
         <h3>Food Knowledge Graph</h3>
         <p>A GraphQL prototype with query depth, complexity, and result limits. Comparing GraphDB and Oxigraph on 14 semantic parity cases.</p>
         <p>Python · GraphQL · RDF · Oxigraph</p>
